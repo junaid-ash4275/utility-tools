@@ -79,6 +79,7 @@ import NumberGuessingGame from "./components/NumberGuessingGame";
 import WhackAMole from "./components/WhackAMole";
 import ParticleSwarmStudio from "./components/ParticleSwarmStudio";
 import LissajousCurveGenerator from "./components/LissajousCurveGenerator";
+import MoirePatternLab from "./components/MoirePatternLab";
 
 
 function App() {
@@ -167,6 +168,7 @@ function App() {
       <RegexTester />
       <ParticleSwarmStudio />
       <LissajousCurveGenerator />
+      <MoirePatternLab />
     </div>
   );
 }
